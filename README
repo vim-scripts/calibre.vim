@@ -1,0 +1,5 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=688
+
+This is a syntax highlight file for Mentor Graphics Physical Extraction and Verification tool suite, Calibre.  It highlights Calibre's rules language SVRF - Standard Verification Rules Format.  Mentor Graphics Corporation is an Electronic Design Automation (EDA) company.
+
+I am no longer allowed to freely distribute this file as the SVRF language belongs to Mentor Graphics.  Please contact your Mentor Sales representative for further assistance.
